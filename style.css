@@ -1,6 +1,10 @@
 body{
-    margin° 0;
+    margin: 0;
     font-family: helvetica;
+}
+
+h1{
+     font-weight: 100;
 }
 
 #logo {
